@@ -129,7 +129,7 @@ body {
 /*end header*/
 /*start landing*/
 .landing {
-  background-image: url(/images/Rocky-Mountains-in-Black-and-White-Silhouette-528723418_4928x3264-2.jpeg);
+  background-image: url(../images/Rocky-Mountains-in-Black-and-White-Silhouette-528723418_4928x3264-2.jpeg);
   background-size: cover;
   height: calc(100vh - 70px);
 }
